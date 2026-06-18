@@ -2,7 +2,7 @@
 
 An intelligent full-stack web app that generates complete recipes using ingredients you already have at home. Supports both **text-based ingredient input** and **image-based ingredient detection** to reduce food waste and save time.
 
-### Chapter 1: Problem Description
+### Problem Description
 Many people struggle to decide what to cook with available ingredients. This is especially common for students, working professionals, and daily home cooks with limited time and resources.
 
 **Key issues with existing platforms:**
@@ -11,11 +11,6 @@ Many people struggle to decide what to cook with available ingredients. This is 
 3. **No smart integration**: Lack of systems combining ingredient-based search + image-based food recognition
 
 This affects daily convenience, time management, and resource utilization. A solution that simplifies recipe discovery can reduce food wastage and improve cooking experience.
-
-### Problem Definition
-**Primary problem**: Difficulty in meal planning using only home ingredients.
-
-Users, especially students and working professionals, lack time to plan meals. Current recipe platforms require dish names, which fails when you only have “tomato, onion, rice”. Most online recipes also need extra ingredients you don’t have.
 
 **Additional gap**: No intelligent system that integrates:
 - Text-based ingredient entry
